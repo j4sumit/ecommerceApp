@@ -11,6 +11,30 @@
       "name": "Amit",
       "Pass": "Passwordfdsf",
       "email": "Amit@gmail.com"
+    },
+    {
+      "id": "6fa3",
+      "name": "Peter",
+      "password": "abc@123",
+      "email": "perter@test.com"
+    },
+    {
+      "id": "de2c",
+      "name": "Peter",
+      "password": "abc@123",
+      "email": "perter@test.com"
+    },
+    {
+      "id": "d117",
+      "name": "dsfds",
+      "password": "2321",
+      "email": "34324"
+    },
+    {
+      "id": "5ad7",
+      "name": "Divya",
+      "password": "abc@123",
+      "email": "divya@test.com"
     }
   ]
 }
