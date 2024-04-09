@@ -1,100 +1,16 @@
 {
   "seller": [
     {
-      "id": "0b25",
-      "name": "Sumit",
-      "Pass": "Password",
-      "email": "sumit@gmail.com"
-    },
-    {
-      "id": "af70",
-      "name": "Amit",
-      "Pass": "Passwordfdsf",
-      "email": "Amit@gmail.com"
-    },
-    {
-      "id": "6fa3",
-      "name": "Peter",
+      "id": "9eb3",
+      "name": "sumit",
       "password": "abc@123",
-      "email": "perter@test.com"
+      "email": "sumit@test.com"
     },
     {
-      "id": "de2c",
-      "name": "Peter",
+      "id": "1c22",
+      "name": "amit",
       "password": "abc@123",
-      "email": "perter@test.com"
-    },
-    {
-      "id": "d117",
-      "name": "dsfds",
-      "password": "2321",
-      "email": "34324"
-    },
-    {
-      "id": "5ad7",
-      "name": "Divya",
-      "password": "abc@123",
-      "email": "divya@test.com"
-    },
-    {
-      "id": "14a5",
-      "name": "Anitl",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "b1f9",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "c40d",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "a18f",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "6854",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "06da",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "3578",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
-    },
-    {
-      "id": "e3d4",
-      "name": "Anil",
-      "password": "abc@1123",
-      "email": "anil@gmail.com"
-    },
-    {
-      "id": "eb73",
-      "name": "Anil",
-      "password": "abc@1123",
-      "email": "anil@gmail.com"
-    },
-    {
-      "id": "cf7f",
-      "name": "Anil",
-      "password": "abc@123",
-      "email": "anil@test.com"
+      "email": "amit@gmai.com"
     }
   ]
 }
