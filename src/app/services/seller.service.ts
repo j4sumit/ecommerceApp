@@ -39,10 +39,11 @@ this.http.get(`http://localhost:3000/seller?email=${data.email}&password=${data.
     this.router.navigate(['seller-home'])
   }
   else{
-    console.log("login failed")
+    console.log("login failed") 
     this.isLoginError.emit(true);
   }
 })
 }
+
 
 }
